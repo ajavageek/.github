@@ -1,7 +1,9 @@
 = A Java Geek
 
-Samples, projects and snippets for the https://blog.frankel.ch/[A Java Geek] blog.
+Samples, projects and snippets for the https://blog.frankel.ch/[A Java Geek] blog by https://github.com/nfrankel[Nicolas Fränkel^].
 
-* https://blog.frankel.ch/feed.xml[RSS]
-* https://twitter.com/nicolas_frankel[Twitter]
-* https://github.com/nfrankel[GitHub]
+* https://blog.frankel.ch/feed.xml[RSS^]
+* https://bsky.app/profile/frankel.ch[Blue Sky^]
+* https://mastodon.top/@frankel[Mastodon^]
+* https://www.youtube.com/@NicolasFrankel[YouTube^]
+* https://twitter.com/nicolas_frankel[Twitter^] (left as it is)
